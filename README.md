@@ -6,7 +6,7 @@
 <br/>
 <br/>
 
-🚀 **BCA Student | Web Developer | Aspiring Software Engineer**  
+🚀 **BCA Student | Web Developer | Software Developer**  
 
 I am a dedicated and motivated developer with a strong passion for **full-stack web development** and **problem-solving**.  
 My journey into tech is fueled by curiosity and the desire to build scalable, user-friendly applications that solve real-world problems.  
