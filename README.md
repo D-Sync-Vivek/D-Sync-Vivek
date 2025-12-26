@@ -150,13 +150,6 @@ I believe in **learning by doing** — every project I build adds to my skillset
       <br/>
       <a href="https://github.com/D-Sync-Vivek/Auth-System">Repo Link</a> | <a href="https://auth-shield.vercel.app/">Live Demo</a>
     </td>
-    <td width="50%">
-      <h3>🔑 Password Manager</h3>
-      <p>A simple password manager that stores credentials in local storage with a minimal and intuitive UI.</p>
-      <strong>Tech:</strong> React, JavaScript, HTML, CSS  
-      <br/>
-      <a href="https://github.com/D-Sync-Vivek/PassGuardian">Repo Link</a> | <a href="https://passwordsafe.vercel.app/">Live Demo</a>
-    </td>
   </tr>
 </table>
 
