@@ -1,176 +1,63 @@
-# Hi there, I'm Vivek 👋  
+# Hi there, I'm Vivek Kumar 👋
 
-<a href="https://www.linkedin.com/in/vivek-kumar-585121326/">
-  <img align="left" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-</a>
+<div align="center">
+  <a href="https://linkedin.com/in/vivek-kumar-585121326">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vivekkumar.mail0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://vivek-portfolio-0.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+</div>
+
 <br/>
-<br/>
 
-🚀 **BCA Student | Web Developer | Software Developer**  
+### 🚀 **Full-Stack Developer (MERN)**
 
-I am a dedicated and motivated developer with a strong passion for **full-stack web development** and **problem-solving**.  
-My journey into tech is fueled by curiosity and the desire to build scalable, user-friendly applications that solve real-world problems.  
-I believe in **learning by doing** — every project I build adds to my skillset.  
+I am a **2nd-year BCA student** focused on engineering **high-performance web architecture**. I don't just build UIs; I solve **latency, state management, and scalability** problems using modern tooling like Zustand, TanStack, and Server Actions.
 
 ---
 
-## 🌟 About Me
-- 💻 Skilled in **C++** and **MERN Stack (MongoDB, Express, React, Node, Next.js)**  
-- 🚀 Built multiple projects from **auth systems** to **productivity apps**   
-- ⚡ Fun fact: Debugging feels like solving mini-puzzles 🧩  
+## ⚡ Engineering Stats
+- 🧩 **Problem Solving:** Solved **450+** problems on LeetCode & **200+** on GFG.
+- 🏗️ **Focus:** Optimistic UI Updates, Server-Side Rendering (SSR), and Type-Safety.
+- 🎓 **Education:** BCA @ Amity University Online (**7.82 CGPA**).
 
 ---
 
-## 🛠️ My Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-  </tr>
-</table>
-
-### Frontend Development
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://github.com/tailwindlabs.png?size=40" width="48" height="48" alt="Tailwind CSS" />
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-  </tr>
-</table>
-
-### Backend Development
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="httpsStorage.googleapis.com/gemini-studio-assets/clippy_18.png" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongoose/mongoose-original.svg" width="48" height="48" alt="Mongoose" />
-      <br>Mongoose
-    </td>
-  </tr>
-</table>
-
-### Database
-<table>
-  <tr>
-   <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-   <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="48" height="48" alt="MongoDB Atlas" />
-      <br>MongoDB Atlas
-    </td>
-  </tr>
-</table>
-
-### Design
-<table>
-  <tr>
-   <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
-      <br>Figma
-    </td>
-  </tr>
-</table>
-
-### Tools & Version Control
-<table>
-  <tr>
-    <td align="center" width="96">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-      <br>GitHub
-    </td>
-  </tr>
-</table>
-
-## 🚀 My Projects  
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🎬 Movie & Series Search App</h3>
-      <p>Search and explore movies & series using the OMDb API. Includes a details page for deeper info. Fully responsive with a clean UI.</p>
-      <strong>Tech:</strong> Next.js, Tailwind CSS, REST API  
-      <br/>
-      <a href="https://github.com/D-Sync-Vivek/movie-search-app">Repo Link</a> | <a href="https://moviesearch1-app.vercel.app">Live Demo</a>
-    </td>
-    <td width="50%">
-      <h3>📝 Notes App</h3>
-      <p>A full-stack notes application where users can add & delete notes stored in MongoDB. Notes are visible to everyone (edit feature in progress).</p>
-      <strong>Tech:</strong> Next.js, Node.js, Express, MongoDB  
-      <br/>
-      <a href="https://github.com/D-Sync-Vivek/Note-App">Repo Link</a> | <a href="https://notehive-app.vercel.app/">Live Demo</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🔐 User Authentication System</h3>
-      <p>Signup/login app with password hashing and JWT authentication. Access to protected routes only for logged-in users.</p>
-      <strong>Tech:</strong> Next.js, Node.js, JWT, bcrypt, MongoDB  
-      <br/>
-      <a href="https://github.com/D-Sync-Vivek/Auth-System">Repo Link</a> | <a href="https://auth-shield.vercel.app/">Live Demo</a>
-    </td>
-    <td width="50%">
-      <h3>Chef Claude</h3>
-      <p>This project takes a list of ingredients from the user, sends them to a backend service, and returns a recipe generated by a large language model. The backend uses Hugging Face Inference API with the gemma-2-2b-it model to produce a structured, markdown-formatted recipe.</p>
-      <strong>Tech:</strong> Next.js, Node.js, Typescript
-      <br/>
-    </td>
-  </tr>
-</table>
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Core** | ![Next.js](https://img.shields.io/badge/Next.js_16-black?logo=next.js) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) |
+| **State & UI** | ![Zustand](https://img.shields.io/badge/Zustand-bear?logoColor=white) ![TanStack](https://img.shields.io/badge/TanStack_Table-FF4154?logo=react-table&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white) ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?logo=clerk&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) |
 
 ---
 
-## 📊 My GitHub Stats  
+## 🚀 Featured Projects
+
+| Project | Description |
+| :--- | :--- |
+| **📊 SaaS Analytics Dashboard**<br><br>[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat&logo=vercel&logoColor=white)](https://saas-dashboard-web.vercel.app/dashboard) [![Code](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/D-Sync-Vivek/saas-dashboard) | **Tech:** Next.js 16, Supabase, Clerk, TanStack Table<br><br>• **Zero Layout Shift:** Architected a fixed CSS Grid layout to eliminate CLS.<br>• **Type-Safe Data:** Implemented complex server-side filtering and sorting using TypeScript Generics.<br>• **Performance:** Used Server Actions for mutations with instant cache revalidation. |
+| **📋 Agile Task Board**<br><br>[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat&logo=vercel&logoColor=white)](https://agile-taskboard.vercel.app/) [![Code](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/D-Sync-Vivek/Agile-Task-Board) | **Tech:** Next.js 16, @dnd-kit, Zustand<br><br>• **Optimistic UI:** Updates state instantly before server confirmation to remove perceived latency.<br>• **Complex Physics:** Handled collision detection and drag constraints for a fluid Kanban experience.<br>• **Mobile First:** Custom touch sensors for drag-and-drop on mobile devices. |
+| **🤖 Chef Claude (AI)**<br><br>[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat&logo=vercel&logoColor=white)](https://chef-claude0.vercel.app/) [![Code](https://img.shields.io/badge/Source_Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/D-Sync-Vivek/Chef-Claude) | **Tech:** Node.js, Hugging Face API, Gemma-2-2B<br><br>• **Prompt Engineering:** Structured system prompts to force strict Markdown output.<br>• **Backend Orchestration:** Managed async LLM streams for real-time recipe generation. |
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D-Sync-Vivek&show_icons=true&theme=radical&rank_icon=github" alt="D-Sync-Vivek's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Sync-Vivek&layout=compact&theme=radical" alt="D-Sync-Vivek's top languages" />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=D-Sync-Vivek&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://readme-stats-fast.vercel.app/api?username=D-Sync-Vivek&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="Vivek's GitHub stats" />
 </p>
 
 ---
 
-⭐️ From [Vivek](https://github.com/D-Sync-Vivek)
+<div align="center">
+  <b>Open to Frontend & Full-Stack Internships</b><br/>
+  <a href="mailto:vivekkumar.mail0@gmail.com">vivekkumar.mail0@gmail.com</a>
+</div>
