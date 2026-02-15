@@ -7,7 +7,7 @@
   <a href="mailto:vivekkumar.mail0@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://vivek-portfolio-0.vercel.app">
+  <a href="https://vivekcodes.in/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </div>
