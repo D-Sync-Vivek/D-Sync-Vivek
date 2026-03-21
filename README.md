@@ -43,7 +43,7 @@ I focus on:
 **Database:** MongoDB, PostgreSQL (Supabase)  
 **Auth:** Clerk, JWT  
 **State Management:** Zustand  
-**Tools:** Git, GitHub, Postman, Vercel  
+**Tools:** Git, GitHub, Postman, Vercel, Figma
 
 ---
 
